@@ -49,15 +49,15 @@
         [
 			{
 				"author": "Sweet Ice Cream Photography",
-				"url": "https://github.com/SmitBeat/WSJ/blob/master/01.jpg?raw=true",
-				"thumbUrl": "https://github.com/SmitBeat/WSJ/blob/master/01.jpg?raw=true",
+				"url": "https://github.com/SmitBeat/WSJ/blob/master/01.jpg",
+				"thumbUrl": "https://github.com/SmitBeat/WSJ/blob/master/01.jpg",
 				"name": "Ceningan island, Indonesia",
                 "category": "people"
 			},
             {
 				"author": "Samuel Zeller",
-				"url": "https://github.com/SmitBeat/WSJ/blob/master/02.jpg?raw=true",
-				"thumbUrl": "https://github.com/SmitBeat/WSJ/blob/master/02.jpg?raw=true",
+				"url": "https://github.com/SmitBeat/WSJ/blob/master/02.jpg",
+				"thumbUrl": "https://github.com/SmitBeat/WSJ/blob/master/02.jpg",
 				"name": "London",
                 "category": "architecture"
 			},
