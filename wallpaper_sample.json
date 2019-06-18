@@ -1,128 +1,72 @@
 {
-    "Categories": 
-        [
-            {
-                "name": "People"
-            },
-            {
-                "name": "Architecture"
-            },
-            {
-                "name": "City"
-            },
-            {
-                "name": "Mountain"
-            },
-            {
-                "name": "Forest"
-            },
-            {
-                "name": "Sunset"
-            },
-            {
-                "name": "Nature"
-            },
-            {
-                "name": "Satellite"
-            },
-            {
-                "name": "Animal"
-            },
-            {
-                "name": "Ocean"
-            },
-            {
-                "name": "Beach"
-            },
-            {
-                "name": "Road"
-            },
-            {
-                "name": "Black and White"
-            },
-            {
-                "name": "House"
-            }
-        ],
-    
 	"Wallpapers":
         [
 			{
-				"author": "Sweet Ice Cream Photography",
-				"url": "https://github.com/SmitBeat/WSJ/blob/master/01.jpg",
-				"thumbUrl": "https://github.com/SmitBeat/WSJ/blob/master/01.jpg",
-				"name": "Ceningan island, Indonesia",
-                "category": "people"
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/01.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/01.jpg",
+				"name": "Nougat Wallpaper 1"
+
 			},
-            {
-				"author": "Samuel Zeller",
-				"url": "https://github.com/SmitBeat/WSJ/blob/master/02.jpg",
-				"thumbUrl": "https://github.com/SmitBeat/WSJ/blob/master/02.jpg",
-				"name": "London",
-                "category": "architecture"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/02.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/02.jpg",
+				"name": "Nougat Wallpaper 2"
 			},
-            {
-				"author": "Kevin Young",
-				"url": "https://previews.dropbox.com/p/thumb/AAfcNcQF87kalXW4Uq62q546GAk_EY95UYhbq5TSbeyOUX2aY7xUmAygWSXzb1TvHipLj0FGUYGm18jSzBS1OUTkTPANvsOjZmGPEoonIzFEIs_HhUQQiodK_6do_h3ySJBuS3k79NYFoo6JQAMKymS9hlksGWzEijhqu63w8l65tJ5ZtkEenT8Opf2SYqFRHvmVGRVczKRc-nJOznOVHyVja8U_n8qLxOqodPH01KKT0yQeIOrRX8jyh-cGiD5UIW28VGo6C2exsXT2qWgt8yTQFW1brMGUJYolH0qp2kjOCFFpB61sVmdV7rJ3L0h-q4ARcXq0POJJl3k48j67f5wX/p.jpeg?size=1600x1200&size_mode=3",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAcQdZGvJmMddEbLZHx6xQdEyHZx6Z0BP5bXvWSwqyjyKdv9Z4s0hpPmpkFx8Wawvex4sLmwNHnpX4dU5TafroF_XSLuzen9K71jHJql02TKwZcrBO5lWMXk8dM7wixsnWQzElSdW9pxhUtU54-U8nlevYg6zm2zRNq347__p3q3z1tk6RjPmTyy5pnDQZG7p81hXcHr2UAIQyV2Tzi0EIuiedj3QZ5Mxdf6cuxRAf9GR_tTpwmsi7MuIpAwtJbYloPJkPXsDmUDrYgVheAwDZwV_lUecEclkvbYVDcFsWY8xBH05wvTBLrkPARIxvn9xBWH9MyD8KStDxbW9riNBW-l/p.jpeg?size=1600x1200&size_mode=3",
-				"name": "City 1067",
-                "category": "architecture,city"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/03.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/03.jpg",
+				"name": "Nougat Wallpaper 3"
 			},
-            {
-				"author": "Aleksandra Boguslawska",
-				"url": "https://previews.dropbox.com/p/thumb/AAdAplwpTuZZkZXTEEf7gsUgoibB7Cx2k3yO320kanz-pB0Yt8zJWhTUAUbw-E6Dt2MHaxxasyY1q64c5SDsx1G-t6nz9jm-DC65xxqgpZixPo-W6MQ-GiRLEzc7qQxjlTRan1HilBxhwFWBY52_38ClxF9JUcYrl0g0eC3vl546fBjs1jh_sQgLyG7mpqqpYhGalD-C1hKOYKPMQyRBIOHFsFaqpwO672zyOS1uQTCU-BnHBvf1B5P_wjaRDwrD0InYhFoBGW7VW3-sKJDq9K7n2cv5Nx1KiSg-h3BHGB-vfpehTWEKlFGYlTVTMyh156pLMVAIBDZJOWlNwEIOGArW/p.jpeg?size=1600x1200&size_mode=3",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAdy-Gc1bI_4xmGaL9rP15ffxHzzGHhpXL9l7r-al3OjV3vbiBc8hrQDRsVGnKu04oOSSroBM2GLg7JJ8qXrwxhaXM8xO4to-k52ik9W22b3emKYBaMazf0kVtcsKSxPX05EmXzQ63T-yAps-Zr9x6lbsq9jaOWtEleXkboEuKeEjPxeCino2YfKzfmOs4WVGDhyPDcTMJre7DdRv-0pHjHlqjCdHLBCKi7MVuZcAhDvfyDfpvnPxPulZFUtSy349B8eK0y8bjHQDRC_7K-z4Ilh1idPwYhESmJOvRp1mng1Mmo-sEPB9aofBrtpLd68lbrhpSg4v617Abo_vPBCHEtI/p.jpeg?size=1600x1200&size_mode=3",
-				"name": "Mountain 1045",
-                "category": "mountain"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/04.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/04.jpg",
+				"name": "Nougat Wallpaper 4"
 			},
-            {
-				"author": "Steve Carter",
-				"url": "https://previews.dropbox.com/p/thumb/AAeL1O_ZgKx1MWb56SfURL-l_HWrGz9PbYSmyqT75yK51cP0hLwjvIQl9fLkXSy0HonF-1skDsW6aIUm5XeRvBG6K9HeNsGHDfTP8VAje00tzi2Cv_fuMRdkyD6PqWFEa9fZb0W6Ryi8KBskvygN9S7iLgKffL4GoyRy_oKUPuUDYJo-W497vz93zxJR7ievTywDVKfhUgJRo_eNJHfXCVKxPtFy_osSFSjn5wFTOm_YNnGPoHMnlZMka6M0poRUJSzH3CdjKzOpTR112lsXx8R0DYqjJW5r0hEES46BnOGRX42V_Q7PbNSSxloLIXOXb6LBn5WwbhlVnXh3L857LlDG/p.jpeg?size=1600x1200&size_mode=3",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAc3YTCJPGFX3l1u92-jnJEMfZLNk9cW7eN7Uikjkm-Gg6jRrY0-ev65Kh4kw8Zwki8Jx4UrqcVFotPLrkeffbktSJ6Q8SxYOaRIE32nrinXsqDD5fRIXfRYsqli0HtuwIQyhE2xGysEsoWFga-hCcjMP92eOu31u3qbPTRBHV0FwWe9eUppMGA28Z9qWEFudqu_mO7EAYuCrkgb9q3oMtV91m7gATrObrD9-1oVVTi2bjKHOOmoQ3_eh8wYPaGRwc33OUR-B9QkhtwiXlwGyzKme9xNM4QHFCFMoojpD07wA2c4VyfPrX6hO9ITH-ykrTwI5btNk_N5P6zI5bOocGr4/p.jpeg?size=1600x1200&size_mode=3",
-				"name": "Crescent City, United States",
-                "category": "mountain,forest"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/05.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/05.jpg",
+				"name": "Nougat Wallpaper 5"
 			},
-            {
-				"author": "Christian Joudrey",
-				"url": "https://previews.dropbox.com/p/thumb/AAc9EWtbYW9o1b1dojboN74moTA3z5MLE5YsYwwSFfT8AGjjmkHYf3Xgv_rvFaQvKBzMWAcRpfhzRXdBz1m-7tVQtTj7-2uvgLJjLnga23f_Kvi5-gAgKAamNS-xr-iHN8V6Jrcv-Z0uJE8YB24wM_MOQnjvrzwPYAXlN-dy4vsD5W3GEwCII5mN28ZfBd2MxRcKJvgaQ0izF6Xr4xGk5iCqoiNfUVtbT4bkVWOdISynWVVlHk4jkhWg2Bgaiq--xn7R2SDjhQkfZDFKVY3xo9A1XQDg8Qv-PdcgdTRWx_eVU0361KRZykIypgzAkF13wCsEaDcah3JZ60as-V3FihO5/p.jpeg?size=1600x1200&size_mode=3",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAdB28Bfbvd1l84S6DKStdPSbtjxmrTZSfheJ3VsXXPGN54zejPWKNzhmVMAhQlQV-W2G4jTsQ76AuK0zVrQQVbPxUhmncOnY3kBs2BYKHT3m6E4-At7-8Dlq7YZc6mSsNou_VGr792aJzWP6dOUG0znNefKHdmYYUJS4VBUqWt_ZGUOMWyWzJwfPxUSAsPEKa4VMu7JS0QI6QiiKXhnOnfCj2MCDxUeueqgm4TEjCFURVFkTQFIC-o6QhzIwH4gyH_zP9KGQSM1UwN7EDt6m6oImYFiE9IRpcgCixbCz3JHeoKNIQ07c1GYzz0Rs2kdcaOvm36F8-EIhjQAv_Mf3J5p/p.jpeg?size=1600x1200&size_mode=3",
-				"name": "Yosemite National Park, United States",
-                "category": "mountain,forest"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/06.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/06.jpg",
+				"name": "M Wallpaper 1"
 			},
-            {
-				"author": "Eric Huang",
-				"url": "https://previews.dropbox.com/p/thumb/AAeI8gMLKmrqSZzHlkxoSB0Y5w7I8kmgib61878xy53Lez1dUHJvE-Tl-CXD9KYrkhEhldYJSceLlvIGK7O2S9wvv1R5rwu5s9sE_ugpncNlaHLU-qiUec7StQuUr5S8W_ctvYiha1FreOdPnmOpfrcNlzOR-2wyMQSRvU33Ji0ZZ1nd2Xzh7VP0t-vEubne4P3ojUWl_zaVzL_MZon42bvskg3xn5tbAux1EISJ__eR3Uc0IQhoMiy9NHrAKB9b8HVf-iLqpvoTqweGzel0jqtzmgpq7gTRvBqTZVLO4oC4rfakWPzdh75v536E8KW8tdEG3RAITpIoTzTGXVWaxPQb/p.jpeg?size=1600x1200&size_mode=3",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAfDHWKg3KDykS1jqeMA81jIP0IDOb9BMmwIFTcx3b2g4Wwk3d3JZY8yYcXgVHCWGFYAVXr1veXOf8hH28etccyXQQDOQtQf8Nd0tBQwy46mdwCQKlenqrGkANskHkyJud2Y56zltie5ABSM4dVW93JjZia72-DeQjmvhDMV19f3En5k5Yp7LRWyBczkXkgDuJ2aHtP8LNzYrNyeYbIQT1p5bZiqVJQ7ghIBdJqwQwO4jscnIoJQbJttsjT5hs3Bp5CSc6JGrq79_OijRXHyVNKL4hK6TkuJGQ2S7XRvTs7Xck9215353SIZD85XGopvMyqI9Vm7Pb6y917Eh5REHKaR/p.jpeg?size=1600x1200&size_mode=3",
-				"name": "Taipei City, Taiwan",
-                "category": "forest"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/07.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/07.jpg",
+				"name": "M Wallpaper 2"
 			},
-            {
-				"author": "Sebastien Gabriel",
-				"url": "https://previews.dropbox.com/p/thumb/AAd65hLG275oXjXGRLm45tyxmjvEKhnOwsBNcoMsX5ekGXuMwUxgDfJ00IW_3558I9_rO_6AamYuh4mNgybxFq3rDZRf3k0zX_iNuNazarj3QRSguQcfITBf1FrQEPKDh66z1GDvl4e1Kd0CijJ_Oris1jRkHL0FZqamaP1bvwoFYP6PxHyjDxV1ogWv9br-m8u-AsnrU-dpoC5RGNB6pCS6x931tyyg-sMfKPLO9ixWKvf77hsNAqX-9L_tMEKcOxW9SZoHee7M1cuER7NbAKV0bt3P5_scTAEDzyY-6UmSyu7YkKNx-kq0GuykogHJAolThwHl_l0wa8_4hOwYw8zb/p.jpeg?fv_content=true&size_mode=5",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAcTl5rhPrtNBUe2-il1qoEBa9Wcw_PosmScoh8y-mjLbxuLG3xxtVVgX7R3eIkuXxlkLggIA4q7XHEcZrxkjxsQP1QxN45doGySrT1RLxl1UcYlTiIqAlH6T7OrNp0v_YnXT7qM_6HTs6w6oVLeT88Hbjg6PIV3fg0IOWznFvkRTqQZwJhtwLa52uTe-iJKjh5mCeo-aHK5cZWYIw54Kd04Lbh7s4Gv9RIUfAtPypQOzyWQeEadQii0Zg24ZxyC5A3dx9uV3AHHZE4Q0jP_BsNi8YCC35W1X81ikkMBYeTkgFnuSxHTvbckcwY--mQVpaOPiXsqj0bApscmGcmAwyHn/p.jpeg?fv_content=true&size_mode=5",
-				"name": "Sunset 987",
-                "category": "mountain,sunset"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/08.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/08.jpg",
+				"name": "M Wallpaper 3"
 			},
-            {
-				"author": "Hide Obara",
-				"url": "https://previews.dropbox.com/p/thumb/AAcksVbs5Lkrehdi_G7TwEj6uxrUMNfm22LM50LtUgmuc-nF_PTZ1NerCl3ur8WKWp6nIotWGqvMDxsQ9_8Ria5B8jY2uWE3Q82uCTE3wRkL6CqUamGCBpF52iSiyGLP7BWH63o6grf5akMycEJjbsAR9P3E05NcN89GaDjN5_Trj-T-3jZAYrzqpyMlV9OEEz7dieqPdZFU9gaqoGqGR7GOg7NQ-brdHnsxKZwQO-K_a01g49Kl12vLMlimfnIFby6zejS7hVQaV3OSREM331PPBPuUujOBP3oUIiYeNXEIo66jIc5ckFZIOtzTs9oP8gpn6uY5DTlKkHbpLJgTn2yI/p.jpeg?fv_content=true&size_mode=5",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAdyiHZnUkxpbqqEZ71YFWc7800RKhOxbODnrc1TrjButR-wZh9zs7MnZzosjoxhdgdhlqtFRJ-qWFnU2NnsDtqDh8mejx_5gp6ZvHoS-72jMeU7bkzTr0Q2H0W0fxm8EyUEwEiOk4gZJW0weLGvuc0KL1jpcuDaiwS3NG6NbXnQFaO03InnQDr2Ng2_hFy6Iz7tWi1OetaMzjg6sCQzjl2dBahFZYlActFw9ymbuNYOoffwJ_-nUAJ8dUU08szh1BKjdtaC6w3ubKGBFG31_BlivWm7aeCMfBM9kexsDYXCWuVX5HF_XJYJSRJ-EnVjtt880FTUZXmBJPad1zS1uORU/p.jpeg?fv_content=true&size_mode=5",
-				"name": "City 985",
-                "category": "city"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/09.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/09.jpg",
+				"name": "M Wallpaper 4"
 			},
-            {
-				"author": "Fritz Bielmeier",
-				"url": "https://previews.dropbox.com/p/thumb/AAfhNGPZGy3SH01D4UKPTvVriDDqhXqHinzjmz44W_d7jIKhHAFEHSoiazueTZEJ4c3VAvf9ZIDckWG8PqWTV1MvBxW_wYm1CKyBKKjwDdnaXEq7TUd8plB2T-rNYMrv3Fn5loGdF3JYL7DCWj0xU2b16CSDIICOWaXjFAE6ccygbHJMdSTeOYLU3xcf7bciWwTGFMjtnkEv9oyEccwlh6Jn6ABv3yk_S9kzkfxNo03TQfuWW3As2BfbX412nzfeCOlrO5Eik6wlIcl9BIDk8WTTVQa0YtC88WbEbN8KbSkHu-44JytdvSnGm9xE9Cj3-tuBEZQFEb_kp1QyeBugKTz2/p.jpeg?fv_content=true&size_mode=5",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAfQkf51FDcr0L7iYRkYbUW-2SNMlJAwkzNW0xpZMzKQOlpHkpQPAwXTWmPlgTaY1nfumm-ShEmYjtOa1VTLGMmk5ZYYLF9FrJuHL8XmnCvU9WlDMbafn280hG74W61fu9Dn4TDE54KUb2BmRmc6PLuIzb9Pu-a9SvnTGoqmtMCLXzKo2hOUL92MxubPVAuZ63UPQsjsg_MUglD7u4s53cF9QOCDLKJE0-jITVU0P57hSQZFwtARSKOOBHiSGlo5FYpMlz19Qp_moRw478iLWrG86yO279epPc__2JE5aBVkm4lHDaY44wEdWGDCyiEouJn4a7hqhkbhLZy9yJS4cHLz/p.jpeg?fv_content=true&size_mode=5",
-				"name": "Sunset 991",
-                "category": "forest,sunset"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/10.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/10.jpg",
+				"name": "M Wallpaper 5"
 			},
-            {
-				"author": "Sven Scheuermeier",
-				"url": "https://previews.dropbox.com/p/thumb/AAca5_4g_MIFCusBxCIpCkVAQlGn5WPrK5zkCudwbG95K7T5701APT-LyOX-ZXqYOkmG3B127hVNyfUpa6KJXPKCnImsow47aAlR3LGnV1Hi7gax0kfxipR6RMSudZarQinUwt6QYYuZOWKvQamu638z-2tHhVuHOGLXCgQ66EYjrM7zoGbeouQR9hbGqsPTVp0rm40j65iASBKGF1XvirHej_EWixEngIl9NwyKJMmosJxcwCEjRjPWVvzSiRTV5fMT5kLixtQ_Pwjr6oNd82rH4o72mBt-huaXNGsIlrbdm3jWYlBjw0npw2uAUzuKWdr8Ni6yZsurTWIUdY8J3KTe/p.jpeg?fv_content=true&size_mode=5",
-				"thumbUrl": "https://previews.dropbox.com/p/thumb/AAc4VUdR-nmPjMLGReeQh-bYFuHaPXBlchio3h3Hu4-LGoElXBpUV51FfQd7Mcf5SOBZLYvb7x-h1q75Aw4gzFQHeaGC_0vYQtExOAsZHQeMKnbZEls76fdNLNmd8C2pv5xhcR7ctZfjgsO0eMuutovL1ysviYBmMPuUQO0Z1R6xeeF4VMBwZvLgfJmw6eHKMye4kDgTJWVyXCBaB6igSNET3866T74Px8KwE0nEFHIkuvf2hJ-93F8OaRH0lfElF6Irayz-xhhHtm2ZA8oRmVV4nt_-V_Mztz18Q68GmetNPFdFZN1oxq4vRCG0N1jrK6hKm5Rrdq6z9vl0z3b01Rng/p.jpeg?fv_content=true&size_mode=5",
-				"name": "Mountain 961",
-                "category": "mountain"
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/11.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/WSJ/master/11.jpg",
+				"name": "M Wallpaper 6"
 			}
 		]
 }
